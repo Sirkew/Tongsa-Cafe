@@ -39,7 +39,7 @@ const Navbar = () => {
           <a href='#menu'>Menu</a>
           <a href='#products'>Products</a>
           <a href='#review'>Review</a>
-          <a href='#Contact'>Contact</a>
+          <a href='#contact'>Contact</a>
         </nav>
         <div className='icons'>
           <div className='fas fa-search' onClick={searchHandler}></div>

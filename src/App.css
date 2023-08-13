@@ -354,7 +354,7 @@ color: black;
 
 .heading{
   text-align: center;
-  margin-bottom: 5%;
+  margin-bottom: 3.5%;
   font-size: 3rem;
 }
 
@@ -498,8 +498,104 @@ color: black;
 }
 
 
+/* contact css  */
+
+.contact .row{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.contact .row .map{
+  flex: 1 1 45rem;
+  width: 100%;
+  height: 40rem;
+  object-fit: cover;
+}
+
+.contact .row form{
+  flex: 1 1 45rem;
+  padding: 5rem 3rem;
+  text-align: center;
+}
+
+.contact .row form h3{
+  text-decoration: uppercase;
+  font-size: 3.5rem;
+  color: #FF914D;
+}
+
+.contact .row form .inputBox{
+  display: flex;
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border: 0.1rem solid #FF914D;
+}
+
+.contact .row form .inputBox span{
+  font-size: 2rem;
+  padding-left: 2rem;
+}
+
+.contact .row form .inputBox input{
+  width: 100%;
+  padding: 2rem;
+  font-size: 1.7rem;
+  text-transform: capitalize;
+  background: none;
+}
 
 
+.contact .row form .btn{
+  background: #ffc107;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1.7rem;
+  margin-top: 1rem;
+  padding: 0.9rem 3rem;
+}
+
+.contact .row form .btn:hover{
+  color: black;
+}
+
+
+/* footer css  */
+
+
+.footer .share {
+  padding: 1rem 0;
+  border: none;
+  text-align: center;
+}
+
+.footer .share a {
+  text-align: center;
+  text-decoration: none;
+  border: 0.2rem solid #FF914D;
+  border-radius: 50%;
+  color: #000000;
+  font-size: 2rem;
+  height: 5rem;
+  line-height: 5rem;
+  margin: 0.3rem;
+  width: 5rem;
+}
+
+.footer .share a:hover{
+  background: #FF914D;
+  transition: 0.6s ease;
+}
+
+.footer .credit {
+  text-align: center;
+  color: #000000;
+  font-size: 2rem;
+  font-weight: lighter;
+  padding: 1.5rem;
+}
 
 
 
