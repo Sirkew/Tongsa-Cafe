@@ -564,6 +564,9 @@ color: black;
 
 /* footer css  */
 
+.footer{
+  background: #313131;
+}
 
 .footer .share {
   padding: 1rem 0;
@@ -576,7 +579,7 @@ color: black;
   text-decoration: none;
   border: 0.2rem solid #FF914D;
   border-radius: 50%;
-  color: #000000;
+  color: #ffffff;
   font-size: 2rem;
   height: 5rem;
   line-height: 5rem;
@@ -591,7 +594,7 @@ color: black;
 
 .footer .credit {
   text-align: center;
-  color: #000000;
+  color: #ffffff;
   font-size: 2rem;
   font-weight: lighter;
   padding: 1.5rem;
