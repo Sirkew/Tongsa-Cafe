@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Tongsa-Cafe/static/css/main.d9442532.css",
-    "main.js": "/Tongsa-Cafe/static/js/main.c3448759.js",
+    "main.css": "/Tongsa-Cafe/static/css/main.c3d56d51.css",
+    "main.js": "/Tongsa-Cafe/static/js/main.555ef720.js",
     "static/js/787.7dec79a0.chunk.js": "/Tongsa-Cafe/static/js/787.7dec79a0.chunk.js",
     "static/media/menu3.png": "/Tongsa-Cafe/static/media/menu3.0549c17609f785b3891a.png",
     "static/media/menu2.png": "/Tongsa-Cafe/static/media/menu2.95fc7c58ecbc028a1a0e.png",
@@ -14,12 +14,12 @@
     "static/media/cart3.png": "/Tongsa-Cafe/static/media/cart3.57fa6e203578d754b000.png",
     "static/media/cart2.png": "/Tongsa-Cafe/static/media/cart2.f9f177b0fec4f7ebe318.png",
     "index.html": "/Tongsa-Cafe/index.html",
-    "main.d9442532.css.map": "/Tongsa-Cafe/static/css/main.d9442532.css.map",
-    "main.c3448759.js.map": "/Tongsa-Cafe/static/js/main.c3448759.js.map",
+    "main.c3d56d51.css.map": "/Tongsa-Cafe/static/css/main.c3d56d51.css.map",
+    "main.555ef720.js.map": "/Tongsa-Cafe/static/js/main.555ef720.js.map",
     "787.7dec79a0.chunk.js.map": "/Tongsa-Cafe/static/js/787.7dec79a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9442532.css",
-    "static/js/main.c3448759.js"
+    "static/css/main.c3d56d51.css",
+    "static/js/main.555ef720.js"
   ]
 }
