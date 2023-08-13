@@ -5,7 +5,7 @@ const Home = () => {
     <>
         <section className='home' id='home'>
             <div className='content'>
-                <h3>test of <span>Tribal tradition</span></h3>
+                <h3>taste of <span>Tribal tradition</span></h3>
                 <p>Mundi is the traditional food of the tribals and serves various types of hill food</p>
                 <a className='btn'>get yours now</a>
             </div>
